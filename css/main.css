@@ -57,10 +57,19 @@ section {
   font-size: 1.5rem;
   font-weight: bolder;
 }
-
+/* Este es un comentario de CSS*/
 footer {
   background-color: black;
   color: #ffffff;
   text-align: center;
   padding: 1rem;
 }
+
+/* footer en revisión
+footer {
+  background-color: pink;
+  color: #ffffff;
+  text-align: center;
+  padding: 1rem;
+}
+*/
